@@ -1,3 +1,4 @@
 [submodule "snapclient"]
 	path = snapclient
-	url = https://github.com/CarlosDerSeher/snapclient
+	url = https://github.com/olafkenfenheuer/snapclient-1.git
+	branch = tas5805m-default-btl
